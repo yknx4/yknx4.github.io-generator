@@ -1,13 +1,14 @@
 # config.toml
 # https://github.com/CrimsonRay/slender
 
-baseurl = "http://yknx4.github.io/"
+baseurl = "//yknx4.github.io/blog"
 title = "[ Y k N x ]"
 languageCode = "en-US"
 MetaDataFormat = "toml"
 theme = "slender"
 paginate = 3
 PaginatePath = "/"
+canonifyurls = true
 
 [author]
     name = "Jorge Alejandro Figueroa Pérez"

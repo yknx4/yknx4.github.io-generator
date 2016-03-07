@@ -11,7 +11,7 @@ title = "about"
 I love to read everything about tech, and I try to hack every
 single gadget in my hands. 
 
-Currently i have a router with
+Currently I have a router with
 tomato-wrt working as my personal server, and customized
 roms on my Android devices,I also enjoy the music, and have played guitar for 10 years, but
 mostly as a casual hobby and not as a professional guitarist.
