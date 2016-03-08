@@ -2,6 +2,7 @@
 # https://github.com/CrimsonRay/slender
 
 baseurl = "//yknx4.github.io/blog"
+# baseurl = ""
 title = "[ Y k N x ]"
 languageCode = "en-US"
 MetaDataFormat = "toml"
@@ -9,6 +10,10 @@ theme = "slender"
 paginate = 3
 PaginatePath = "/"
 canonifyurls = true
+
+[Taxonomies]
+	tag = "tags"
+	category = "categories"
 
 [author]
     name = "Jorge Alejandro Figueroa Pérez"
@@ -40,18 +45,18 @@ canonifyurls = true
     # This will be overridden by whatever is set by the page or post,
     # defined by `description` and `keywords` variables in the front matter
     # of the markdown file.
-    description = "Default Page Description"
-    keywords = "default,page,keywords"
+    description = "Yknx - Jorge Figueroa. Personal blog about Tech, Software and Life"
+    keywords = "yknx,yknx4,jorge figueroa, jorge alejandro figueroa perez, software, development, life, technology"
 
     # Social links, must be full URLs (e.g. https://github.com/CrimsonRay/).
     # Remove, comment, or leave blank any field to leave them out.
     email = "mailto:yknx.4.b+contact@gmail.com"
     github = "//www.github.com/yknx4"
-    bitbucket = "url-to-your-bitbucket"
+    # bitbucket = "url-to-your-bitbucket"
     twitter = "//twitter.com/yknx4"
-    stackoverflow = "url-to-your-stackoverflow"
+    # stackoverflow = "url-to-your-stackoverflow"
     linkedin = "//mx.linkedin.com/in/yknx4"
-    facebook = "url-to-your-facebook"
+    facebook = "//www.facebook.com/yknx4"
 
     # Google Analytics
     # Remove, comment, or leave it blank if you don't have one.
@@ -71,4 +76,22 @@ canonifyurls = true
     identifier = "about"
     name       = "about"
     url        = "/about/"
-    weight     = 1
+    weight     = 1000
+
+		[[menu.main]]
+		identifier = "categories"
+		name = "categories"
+		url = "/categories/"
+		weight = 2
+
+		[[menu.main]]
+		identifier = "tags"
+		name = "tags"
+		url = "/tags/"
+		weight = 3
+
+		[[menu.main]]
+		identifier = "pro"
+		name = "pro"
+		url = "https://yknx4.github.io"
+		weight = 4
