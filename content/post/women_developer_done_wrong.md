@@ -1,11 +1,11 @@
 +++
 categories = ['development', 'social']
 date = "2016-03-24T10:25:45-06:00"
-description = ""
-draft = true
+description = "Don't take me wrong, seeking for more women in the technology world is a legit purpose and I support it. It's just done wrong."
+draft = false
 keywords = []
-tags = []
-title = "women_developer_done_wrong"
+tags = ['equality', 'gender', 'social movement', 'women']
+title = "women developers done wrong"
 
 +++
 
