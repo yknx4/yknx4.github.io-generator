@@ -1,10 +1,17 @@
+#!/bin/sh
+
+#Path of the Git Repository where you are publishing.
+PUBLISH_PATH = "path/to/your/blog/repo"
+
+CURRENT_PATH = `pwd`
+
 echo "Generating Website"
 hugo
 echo "Cleaning"
-find  ../yknx4/blog/. -type f -maxdepth 1 ! -name .git -delete
+find  $PUBLISH_PATH/. -type f -maxdepth 1 ! -name .git -delete
 echo "Copying public files"
-cp -R public/. ../yknx4/blog/
-cd ../yknx4/blog/
+cp -R public/. $PUBLISH_PATH/
+cd $PUBLISH_PATH/
 git checkout gh-pages
 echo "Adding to git"
 # Add changes to git.
@@ -19,4 +26,4 @@ git commit -m "$msg"
 # Push source and build repos.
 echo "Pushing to Github Pages"
 git push origin gh-pages
-cd ../../yknx4.github.io-generator/
+cd $CURRENT_PATH
