@@ -13,6 +13,7 @@ echo "Copying public files"
 cp -R public/. $PUBLISH_PATH/
 echo "Moving to publish path"
 cd $PUBLISH_PATH/
+git fetch origin gh-pages
 git checkout gh-pages
 echo "Adding to git"
 # Add changes to git.
