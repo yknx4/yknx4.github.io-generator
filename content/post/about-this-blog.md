@@ -13,7 +13,8 @@ So this is the first post, and as every programmer's first time. It has to start
 I'm not a professional blogger nor a writer nor a native english speaker. Expect some idle days, expect some _unproffesional_ posts, and expect lots and lots of silly english mistakes.
 
 ### Who am i?
-Look the [about]({{< relref "page/about.md" >}}) section.
+Look the [about]({{< relref "page/about.md" >}}) section and [this]({{< relref "about-me-2.md" >}}) post.
+
 
 ### What is this and what this is _NOT_ about
 

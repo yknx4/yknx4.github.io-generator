@@ -10,22 +10,22 @@ title = "about"
 ### About myself
 
 #### me
-Well, I'm Jorge Alejandro Figueroa Perez, sometimes just **Jorge**, sometimes just **Alejandro**, sometimes just **Ale** and in the Internet most of the times I'm **Yknx** (Except on some sites where some asian dude got the nickname first).
+Well, I'm Jorge Alejandro Figueroa Perez, sometimes just **Jorge**, sometimes just **Alejandro**, most times just [**Ale**]({{< relref "about-me-2.md" >}}) and in the Internet most of the times I'm **Yknx** (Except on some sites where some asian dude got the nickname first).
 
 I'm a supporter of **Social Freedom**, **Internet Rights** and the **LGBT** Community. I have the opinion that _**everyone can and shall live however the f*ck they want**_ as long as they don't harm anyone else's freedom.
 
-I think any society should be free of oppresion, and have all their human rights assured regardless of ther political, religious, sexual, or whatever position. 
+I think any society should be free of oppression, and have all their human rights assured regardless of their political, religious, sexual, or whatever position.
 
-I think all those rights should be also preserved and enforced in all the modern enviroments that are constantly surging in the Internet. (Yep, This means that you should also be able to do whatever you want on the Internet)
+I think all those rights should be also preserved and enforced in all the modern environments that are constantly surging in the Internet. (Yep, This means that you should also be able to do whatever you want on the Internet)
 
-And I'm *against Gender Roles* (a byproduct of sexism), I don't think a person can be defined by what society tells them they are supposed to be just because the person was born with or without something between the legs. I consider myself *genderless* or even better *Allgendersatthesametime-ish gender*, so feel free to address me however you feel you should.
+And I'm *against Gender Roles* (a byproduct of sexism), I don't think a person can be defined by what society tells them they are supposed to be just because the person was born with or without something between the legs. I consider myself [**transgender**]({{< relref "about-me-2.md" >}}) or even better ~~Allgendersatthesametime-ish~~ **bigender**, so feel free to address me however you feel you should.
 
 I live in this *unique* place called **Colima** in this *interesting*
 country called **Mexico**, and I have been living here for about all my life. [Except for the 6 months I gladly had the opportunity to live in **South Korea**]
 
 #### myself
 I love to read everything about tech, and I try to hack every
-single gadget in my hands. 
+single gadget in my hands.
 
 Currently I have a router with
 tomato-wrt working as my personal server, and customized
@@ -40,7 +40,7 @@ I love languages, i really like to learn languages, as now I can handle these:
 
 * **Spanish**: [I'm Mexican so....]
 * **English**: [Good enough for living and working - Cambride FCE B2]
-* **Korean**: [Been learning for 2 years, I have a basic level, 난 한국말을 항상 연습 한 중인데 당신이 연습도 하고 하고 싶으하면 매시지를 보내 주세요]
+* **Korean**: [Been learning for 4 years, I have a intermediate level, 난 한국말을 항상 연습 한 중인데 당신이 연습도 하고 싶으하면 매시지를 보내 주세요]
 * **Japanese**: [This is the half of my first year, so I suck pretty much :P]
 
 
@@ -83,7 +83,7 @@ Right now I'm doing my internship as a developer in MagmaLabs, working with Ruby
 
 Projects:
 
-* Beanstack (Library web application in Ruby/Rails) 
+* Beanstack (Library web application in Ruby/Rails)
 * MagmaRooms (Android Application for Google Calendar)
 
 
@@ -96,7 +96,7 @@ knowledge. Some of them are available on my GitHub repo.
 
 #### Information Retrieval Engine (School Project) - University of Korea (March 2016 - June 2016)
 I had plenty of fun with this project, it was the first time i had
-to work with proper Math models. 
+to work with proper Math models.
 
 I had to program a Information
 Retrieval engine for web documents that calculates similarity
