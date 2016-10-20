@@ -69,29 +69,29 @@ canonifyurls = true
     [[menu.main]]
     identifier = "home"
     name       = "home"
-    url        = "/"
+    url        = "/blog"
     weight     = 0
 
     [[menu.main]]
     identifier = "about"
     name       = "about"
-    url        = "/about/"
-    weight     = 1000
+    url        = "about/"
+    weight     = 4
 
 		[[menu.main]]
 		identifier = "categories"
 		name = "categories"
-		url = "/categories/"
+		url = "categories/"
 		weight = 2
 
 		[[menu.main]]
 		identifier = "tags"
 		name = "tags"
-		url = "/tags/"
+		url = "tags/"
 		weight = 3
 
 		[[menu.main]]
 		identifier = "pro"
 		name = "pro"
 		url = "https://yknx4.github.io"
-		weight = 4
+		weight = 5
